@@ -1,9 +1,3 @@
-#💵Expense Tracker
-A command-line application written in Python that allows users to manage their expenses.
-
-
-The application stores user's expense information in a JSON file, making the data persistent between program executions.
-
 
 # 💰 Expense Tracker
 
