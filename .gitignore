@@ -1,0 +1,20 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Project data
+contacts.json
+my_expenses.json
+
+# macOS
+.DS_Store
+EOF
