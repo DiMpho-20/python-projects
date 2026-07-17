@@ -117,10 +117,6 @@ A command-line application for recording and managing personal expenses.
 ## 🚀 Upcoming Projects
 
 - Password Manager
-- Weather CLI
-- To-Do Application
-- Duplicate File Finder
-- Backup Utility
 - Log Analyzer
 - Quiz Application
 - URL Shortener
